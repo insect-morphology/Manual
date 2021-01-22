@@ -6,7 +6,7 @@ January 2021
 
 ## Background
 
-We created an ontology for the anatomy of the insect skeletomuscular system [AISM](https://github.com/insect-morphology/aism) using the Ontology Development Kit [ODK](https://github.com/INCATools/ontology-development-kit). The ODK provides a standardized system to create, manage, release and edit ontologies to maximize interoperability among them (i. e., ability to reuse terms from existing ontologies; more details at https://douroucouli.wordpress.com/2018/08/06/new-version-of-ontology-development-kit-now-with-docker-support/) and facilitate collaborative editing using GitHub. 
+We created an ontology for the anatomy of the insect skeletomuscular system [AISM](https://github.com/insect-morphology/aism) using the Ontology Development Kit [ODK](https://github.com/INCATools/ontology-development-kit). The ODK provides a standardized system to create, manage, release and edit ontologies to maximize interoperability among them (i. e., ability to reuse terms from existing ontologies; more details at https://douroucouli.wordpress.com/2018/08/06/new-version-of-ontology-development-kit-now-with-docker-support/) and facilitate collaborative editing using [GitHub](https://github.com/). 
 
 The AISM contains all the basic terms shared across insects, along with relationships and annotation options, with the idea that it serves as a base for order-specific insect anatomy ontologies that incorporate order-specific terms. So the idea with the AISM is to provide a backbone and headstart for order-specific ontologies.
 
@@ -37,15 +37,11 @@ Managing an ontology in the context of the [ODK](https://github.com/INCATools/on
 
 The simplest editors:
 
-**For Mac:** BBEdit https://www.barebones.com/products/bbedit/
+**For Mac:** [BBEdit](https://www.barebones.com/products/bbedit/)
 
-**For Windows:** Notepad++ https://notepad-plus-plus.org/downloads/) 
+**For Windows:** [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-Other programs with text editor capabilities that are also used for programming, available for both Mac and Windows:
-
-Atom (https://atom.io/)
-
-Visual Studio Code (https://code.visualstudio.com/).
+Other programs with text editor capabilities that are also used for programming, available for both Mac and Windows: [Atom](https://atom.io/)and [Visual Studio Code](https://code.visualstudio.com/).
 - To have [**git**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on the computer
 - A [GitHub](https://github.com/) account
 - To be able to pull files from and push files to GitHub from their computers either using git commands in the command line (the route recommended by developers) or [GitHub Desktop](https://desktop.github.com/) (an app to manage your GitHub repositories from your computer).
@@ -55,7 +51,7 @@ Visual Studio Code (https://code.visualstudio.com/).
 
 For each order-specific ontology there should be at least one **manager**. This person has several tasks. We will walk you through each of the steps in this manual.
 1. [Set up the main repository](https://github.com/insect-morphology/Manual-for-AISM-based-insect-anatomy-ontologies/blob/main/Sections/Setting-up-main-repository.md) by requesting a "placeholder repository" to be hosted at [insect-morphology](https://github.com/insect-morphology) 
-2. Create an AISM-based ontology using the [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit), including the first release of the ontology
+2. [Create an AISM-based ontology](https://github.com/insect-morphology/Manual/blob/main/Sections/Creating-AISM-based-insect-ontology.md) using the [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit), including the first release of the ontology
 3. Upload this initial AISM-based ontology as a repository in [GitHub](https://github.com/)
 4. Submit a pull request to get the AISM-based ontology files to be hosted at [insect-morphology](https://github.com/insect-morphology) (at this stage the order-specific ontology main manager will become an admin within the [insect-morphology](https://github.com/insect-morphology) organization and will be able to review and accept pull requests from collaborators)
 5. Manage and maintain the `idranges file` (more on this later)
