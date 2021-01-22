@@ -10,9 +10,9 @@ We created an ontology for the anatomy of the insect skeletomuscular system [AIS
 
 The AISM contains all the basic terms shared across insects, along with relationships and annotation options, with the idea that it serves as a base for order-specific insect anatomy ontologies that incorporate order-specific terms. So the idea with the AISM is to provide a backbone and headstart for order-specific ontologies.
 
-Because of the way that ODK imports pre-existing terms, the full AISM can be overwhelming for first-time users, as it includes all the terms and relationships inherited from multiple hierarchies from other ontologies involved (i.e. [BFO](http://www.obofoundry.org/ontology/bfo.html), [BSPO](http://www.obofoundry.org/ontology/bspo.html), [PATO](http://www.obofoundry.org/ontology/pato.html), [RO](http://www.obofoundry.org/ontology/ro.html), [UBERON](http://www.obofoundry.org/ontology/uberon.html)). That is why a **_simplified version of the AISM**_ is provided and should be the start point for any future insect order-specific ontologies. This version includes essential relationships and annotation properties as well as basic insect-specific terms.
+Because of the way that ODK imports pre-existing terms, the full AISM can be overwhelming for first-time users, as it includes all the terms and relationships inherited from multiple hierarchies from other ontologies involved (i.e. [BFO](http://www.obofoundry.org/ontology/bfo.html), [BSPO](http://www.obofoundry.org/ontology/bspo.html), [PATO](http://www.obofoundry.org/ontology/pato.html), [RO](http://www.obofoundry.org/ontology/ro.html), [UBERON](http://www.obofoundry.org/ontology/uberon.html)). That is why a **_simplified version of the AISM_** is provided and should be the start point for any future insect order-specific ontologies. This version includes essential relationships and annotation properties as well as basic insect-specific terms.
 
-We provide here instructions for creating ontologies using this **_simplified version of the AISM**_.
+We provide here instructions for creating ontologies using this **_simplified version of the AISM_**.
 
 ## Initial thoughts for order-specific ontologies
 
@@ -33,7 +33,7 @@ For now, once you define an ID, which will be the prefix for all your unique ide
 Managing an ontology in the context of the [ODK](https://github.com/INCATools/ontology-development-kit) offers the advantage of collaborative work with version control. It requires ontology managers and editors to be familiar with the _command line_, the use of [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [GitHub](https://github.com/), and the use of [Protégé](https://protege.stanford.edu/).
 
 **Every member of the team will need:**
-- A **text editor** program installed in their computers to explore and edit files without interfering with file format. There are several options: 
+- A **text editor program** installed in their computers to explore and edit files without interfering with file format. There are several options: 
 
 The simplest editors:
 
