@@ -1,0 +1,8 @@
+id: abbreviation_for_your_ontology 
+title: full name of your ontology 
+github_org: your_GitHub_user_name 
+repo: name_of_repository
+import_group:
+  products:
+    - id: aism
+      mirror_from: https://raw.githubusercontent.com/insect-morphology/aism/master/aism.owl
