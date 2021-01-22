@@ -54,7 +54,7 @@ Visual Studio Code (https://code.visualstudio.com/).
 ### Order-specific ontology manager tasks
 
 For each order-specific ontology there should be at least one **manager**. This person has several tasks. We will walk you through each of the steps in this manual.
-1. Set up the main repository by requesting a "placeholder repository" to be hosted at [insect-morphology](https://github.com/insect-morphology) 
+1. [Set up the main repository](https://github.com/insect-morphology/Manual-for-AISM-based-insect-anatomy-ontologies/blob/main/Sections/Setting-up-main-repository.md) by requesting a "placeholder repository" to be hosted at [insect-morphology](https://github.com/insect-morphology) 
 2. Create an AISM-based ontology using the [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit), including the first release of the ontology
 3. Upload this initial AISM-based ontology as a repository in [GitHub](https://github.com/)
 4. Submit a pull request to get the AISM-based ontology files to be hosted at [insect-morphology](https://github.com/insect-morphology) (at this stage the order-specific ontology main manager will become an admin within the [insect-morphology](https://github.com/insect-morphology) organization and will be able to review and accept pull requests from collaborators)
