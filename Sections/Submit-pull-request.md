@@ -1,4 +1,4 @@
-## Submit pull request
+## Submit a pull request to [insect-morphology](https://github.com/insect-morphology)
 
 These steps need only to be followed by the **order-specific ontology manager**, as this person should have the initial ontology files created using the [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit). At this point, the **order-specific ontology manager** should have a forked repository on their profile with all the initial ontology files ready to be submitted to the base repository at [insect-morphology](https://github.com/insect-morphology), which  will be used by collaborators. Instructions for order-specific ontology editors can be found here: ---.
 
