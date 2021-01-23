@@ -18,7 +18,7 @@ We provide here instructions for creating ontologies using this **_simplified ve
 
 Given that the AISM already contains basic terms and definitions for Insecta, the main goal of order-specific ontologies would be to gather order-specific terminology.
 
-The way we are doing this for the Coleoptera Anatomy Ontology project [COLAO](https://github.com/insect-morphology/colao) is by getting all the most broadly accepted beetle terms and definitions from Lawrence and Ślipiński (2013; Adult morphology. In: Australian beetles volume 1: morphology, classification and keys. CSIRO Publishing, p. 30–63), and for now, adding them to a team-shared spreadsheet. Once we get those terms incorporated into the ontology file, we will be adding additional terms traditionally used, annotating whether those are synonyms of the more broadly accepted terms. We will also add terms from specialized morphological works on different skeletal systems in order to increase and refine the knowledge base.
+The way we are doing this for the Coleoptera Anatomy Ontology project [COLAO](https://github.com/insect-morphology/colao) is by getting all the most broadly accepted beetle terms and definitions from Lawrence and Ślipiński (2013; Adult morphology. In: [Australian beetles volume 1: morphology, classification and keys. CSIRO Publishing](https://www.publish.csiro.au/book/6466/), p. 30–63), and for now, adding them to a team-shared spreadsheet. Once we get those terms incorporated into the ontology file, we will be adding additional terms traditionally used, annotating whether those are synonyms of the more broadly accepted terms. We will also add terms from specialized morphological works on different skeletal systems in order to increase and refine the knowledge base.
 
 ### Defining a name and ID for order-specific ontologies
 We invite you to read through the [Principles](http://www.obofoundry.org/principles/fp-000-summary.html) established by the [OBO Foundry](http://www.obofoundry.org/about-OBO-Foundry.html), the organization working to build tools and standards to maintain and increase interoperability across ontologies. Specifically dealing with ontology names is [Principle 3](http://www.obofoundry.org/principles/fp-003-uris.html) and the [recommendations](http://www.obofoundry.org/id-policy) therein. 
@@ -41,7 +41,7 @@ The simplest editors:
 
 **For Windows:** [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-Other programs with text editor capabilities that are also used for programming, available for both Mac and Windows: [Atom](https://atom.io/)and [Visual Studio Code](https://code.visualstudio.com/).
+Other programs with text editor capabilities that are also used for programming, available for both Mac and Windows: [Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/).
 - To have [**git**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on the computer
 - A [GitHub](https://github.com/) account
 - To be able to pull files from and push files to GitHub from their computers either using git commands in the command line (the route recommended by developers) or [GitHub Desktop](https://desktop.github.com/) (an app to manage your GitHub repositories from your computer).
