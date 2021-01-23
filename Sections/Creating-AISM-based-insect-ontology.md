@@ -129,3 +129,18 @@ Then make the imports using the following command:
 To check if everything went well, open the file `abbreviation_for_your_ontology-edit.owl` in [Protégé](https://protege.stanford.edu/). The main screen should look similar to the image below:
 
 ![Protégé Home Screen](https://github.com/insect-morphology/Manual/blob/main/img/PotegeHome.png)
+
+
+Last step using the [ODK](https://github.com/INCATools/ontology-development-kit) for now, make release files, before uploading files to [GitHub](https://github.com/):
+
+**For Mac:**
+`sh run.sh make prepare_release`
+
+**For Windows:**
+`./run.bat make prepare_release`
+
+This will run the [ODK](https://github.com/INCATools/ontology-development-kit) to make some verifications and create the first version of the ontology ready to be used and edited by collaborators. This will give you a report of errors coming from your imports ([AISM](https://github.com/insect-morphology/aism)). Do not worry about this at this point.
+
+Also, take a look at the instructions on the `README-editors.md` file within your `src/ontology/` folder, by opening the file in the text editor.
+
+After your files have been created, edited and released, you are ready to upload this first version of the ontology to [GitHub](https://github.com/).
