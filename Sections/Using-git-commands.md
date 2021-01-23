@@ -1,5 +1,8 @@
 ## Using git commands to upload your ontology as a GitHub repository 
 
+These steps need only to be followed by the **order-specific ontology manager**, as this person should have the initial files created using the [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit). At this point, the **order-specific ontology manager** should have a cloned "placeholder repository" from [insect-morphology](https://github.com/insect-morphology) (see [Uploading the ontology to the GitHub repository](https://github.com/insect-morphology/Manual/blob/main/Sections/Upload-initial-ontology-as-GitHub-repository.md)). This will set up a repository to be used by collaborators. Instructions for order-specific ontology editors can be found here: ---.
+
+
 There should be a `GitHub` folder in your computer at this point. If there is none, go ahead and create a folder called `GitHub` in the `Documents` folder in your computer. In the command line, cd into your `GitHub` folder (i.e. `cd Documents/GitHub`) and `clone` the repository that you forked from [insect-morphology](https://github.com/insect-morphology) using its web address:
 
 `git clone https://github.com/your_GitHub_user_name/abbreviation_for_your_ontology`
