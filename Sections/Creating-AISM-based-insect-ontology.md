@@ -74,7 +74,9 @@ NEXT STEPS
 
 Do not follow those steps just yet (those are the steps to upload your ontology files to [GitHub](https://github.com/)), but keep going with the steps below. You will do this upload later when the initial files are updated to incorporate the **_simplified version of the AISM_**. The instructions for uploading will be given then.
 
-If the few last lines in your command line start with `Exception: Failed…` it means that something went wrong and you need to repeat step 4, including checking your `.yaml` file for errors. This processs might have created a new folder with incomplete files.
+If the few last lines in your command line start with `Exception: Failed…` it means that something went wrong and you need to repeat step 4, including checking your `.yaml` file for errors. In case you are having trouble with your `insect_order.yaml` file, there is a [sample file here](https://github.com/insect-morphology/Manual/blob/main/Sections/insect_order.yaml) that you can download, edit, save, and use.
+
+When this processs fails, it might create a new folder with incomplete files.
 
 To make sure that the files are complete, there should be a folder called `target` within your `Documents/Ontology` folder. Within `target` there should be one folder named `abbreviation_for_your_ontology` containing three folders (`imports`, `reports` and `src`) and a few additional files starting with the same `abbreviation_for_your_ontology` name with different extensions (i.e. `.owl`, `.obo`). Within `src` there should be five folders: `metadata`, `ontology`, `patterns`, `scripts`, and `sparql`. Within `ontology`, there should be three folders: `imports`, `mirror`, and `reports`, plus several additional files, including an `abbreviation_for_your_ontology-odk.yaml` file.
 
