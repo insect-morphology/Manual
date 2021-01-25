@@ -52,8 +52,8 @@ Other programs with text editor capabilities that are also used for programming,
 For each order-specific ontology there should be at least one **manager**. This person has several tasks. We will walk you through each of the steps in this manual.
 1. [Set up the main repository](https://github.com/insect-morphology/Manual-for-AISM-based-insect-anatomy-ontologies/blob/main/Sections/Setting-up-main-repository.md) by requesting a "placeholder repository" to be hosted at [insect-morphology](https://github.com/insect-morphology) 
 2. [Create an AISM-based ontology](https://github.com/insect-morphology/Manual/blob/main/Sections/Creating-AISM-based-insect-ontology.md) using the [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit), including the first release of the ontology
-3. Upload this initial AISM-based ontology as a repository in [GitHub](https://github.com/)
-4. Submit a pull request to get the AISM-based ontology files to be hosted at [insect-morphology](https://github.com/insect-morphology) (at this stage the order-specific ontology main manager will become an admin within the [insect-morphology](https://github.com/insect-morphology) organization and will be able to review and accept pull requests from collaborators)
-5. Manage and maintain the `idranges file` (more on this later)
+3. [Upload this initial AISM-based ontology as a repository](https://github.com/insect-morphology/Manual/blob/main/Sections/Upload-initial-ontology-as-GitHub-repository.md) in [GitHub](https://github.com/)
+4. [Submit a pull request](https://github.com/insect-morphology/Manual/blob/main/Sections/Submit-pull-request.md) to get the AISM-based ontology files to be hosted at [insect-morphology](https://github.com/insect-morphology) (at this stage the order-specific ontology main manager will become an admin within the [insect-morphology](https://github.com/insect-morphology) organization and will be able to review and accept pull requests from collaborators)
+5. Manage and maintain the `idranges file`
 6. Review and accept pull requests submitted by order-specific ontology **editors**
 7. [Submit the new ontology for inclusion in the OBO Foundry](http://www.obofoundry.org/faq/how-do-i-register-my-ontology.html) - this will be done when there has been some order-specific development (when order-specific terms have been added)
