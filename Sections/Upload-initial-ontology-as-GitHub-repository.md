@@ -24,7 +24,7 @@ For example:
 
 ### Fork the "placeholder repository" hosted at [insect-morphology](https://github.com/insect-morphology)
 
-Go to `https://github.com/insect-morphology/abbreviation_for_your_ontology` and press the Fork button on the top right corner within the repository. This creates a copy of this repository into your user's profile, so that the newly created ontology files can be uploaded there.
+Go to `https://github.com/insect-morphology/abbreviation_for_your_ontology` and press the "Fork" button on the top right corner within the repository. This creates a copy of this repository into your user's profile, so that the newly created ontology files can be uploaded there.
 
 ![GitHub Fork](https://github.com/insect-morphology/Manual/blob/main/img/GitHubFork.png)
 
@@ -39,3 +39,5 @@ From here, you can either:
 or
 
 - [Use GitHub Desktop](https://github.com/insect-morphology/Manual/blob/main/Sections/Using-GitHub-Desktop.md)
+
+After you upload your ontology files into your forked repository, you can go ahead and [submit a pull request](https://github.com/insect-morphology/Manual/blob/main/Sections/Submit-pull-request.md) so that [insect-morphology](https://github.com/insect-morphology) admins can review and pull your files into the original repository.
