@@ -1,6 +1,6 @@
 # How to create insect anatomy ontologies using the Ontology Development Kit (ODK) and edit them in Protégé 
 
-A manual edited by [Jennifer C. Girón](https://github.com/JCGiron) and [István Mikó](https://github.com/teleaslamellatus)
+A manual edited by [Jennifer C. Girón](https://github.com/JCGiron), [István Mikó](https://github.com/teleaslamellatus), and [Luis González Montana](https://github.com/luis-gonzalez-m) 
 
 January 2021
 
