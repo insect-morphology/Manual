@@ -2,9 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/331670812.svg)](https://zenodo.org/badge/latestdoi/331670812)
 
-A manual edited by [Jennifer C. Girón](https://github.com/JCGiron), [István Mikó](https://github.com/teleaslamellatus), and [Luis González Montana](https://github.com/luis-gonzalez-m) 
+A manual edited by [Jennifer C. Girón](https://github.com/JCGiron), [István Mikó](https://github.com/teleaslamellatus), and [Luis A. González Montaña](https://github.com/luis-gonzalez-m) 
 
-**Suggested citation**: Girón, J. C., González Montana, L., Mikó, I. 2021. How to create AISM-based insect anatomy ontologies using the Ontology Development Kit (ODK) and edit them in Protégé. GitHub repository. https://doi.org/10.5281/zenodo.4642556
+**Suggested citation**: Girón, J. C., González Montaña, L. A., Mikó, I. 2021. How to create AISM-based insect anatomy ontologies using the Ontology Development Kit (ODK) and edit them in Protégé. GitHub repository. https://doi.org/10.5281/zenodo.4642556
 
 January 2021
 
