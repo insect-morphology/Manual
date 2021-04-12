@@ -78,5 +78,6 @@ Ontologies hosted at [insect-morphology](https://github.com/insect-morphology)ca
 3. [Edit the appropriate ontology file](https://github.com/insect-morphology/Manual/blob/main/Sections/Using-Protege.md) using [Protégé](https://protege.stanford.edu/)
 4. [Submit a pull request](https://github.com/insect-morphology/Manual/blob/main/Sections/Submit-pull-request.md) so that the **ontology manager** can take a look at your proposed changes and accept them if appropriate. 
 
+------------------
 
 If you have comments about a particular term that needs revision, but do not want to get into ontology editing, you can use our [issue tracker](https://github.com/insect-morphology/aism/issues), providing as much information as you can, including references with DOI if possible to support your request.
