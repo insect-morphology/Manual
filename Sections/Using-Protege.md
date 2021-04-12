@@ -1,6 +1,6 @@
 # Editing the AISM and AISM-based ontologies using [Protégé](https://protege.stanford.edu/) #
 
-Here we outline the steps to be able to add, edit and annotate an existing [AISM-based](https://github.com/insect-morphology/aism) ontology. Some instructions here are adopted from the [Gene Ontology protocols](https://go-protege-tutorial.readthedocs.io/en/latest/).
+Here we outline the steps to be able to add, edit and annotate terms in an existing [AISM-based](https://github.com/insect-morphology/aism) ontology. Some instructions here are adopted from the [Gene Ontology protocols](https://go-protege-tutorial.readthedocs.io/en/latest/).
 
 In order to perform the steps in this section you will need to:
 1. Have [Protégé](https://protege.stanford.edu/) installed
@@ -16,7 +16,7 @@ In my computer, this is
 `GitHub/aism/src/ontology/aism-edit.owl`
 
 
- by clicking the entities tab in the top left area:
+ Click on the entities tab in the top left area:
 
 
 <img src="https://github.com/insect-morphology/Manual/blob/main/img/ProtegeHome.png" alt="ProtegeHome" width="80%"/>
@@ -30,7 +30,7 @@ This will show you the main features that you will be working with:
 - **Object properties** tab (top left, yellow arrow)
 
 
-<img src="https://github.com/insect-morphology/Manual/blob/main/img/ProtegeMain.png" alt="ProtegeMain" width="60%"/>
+<img src="https://github.com/insect-morphology/Manual/blob/main/img/ProtegeMain.png" alt="ProtegeMain" width="80%"/>
 
 
-Next, [setup Protégé to auto generate IRI-s](https://github.com/insect-morphology/Manual/blob/main/Sections/Setup-Protege.md).
+Next, [set up Protégé to auto generate IRI-s](https://github.com/insect-morphology/Manual/blob/main/Sections/Setup-Protege.md). If you already have Protégé set up for auto-generating IRI's, you can either [import existing terms](https://github.com/insect-morphology/Manual/blob/main/Sections/Setup-Protege.md) from other ontologies, if needed, or you can [add new terms](https://github.com/insect-morphology/Manual/blob/main/Sections/Adding-new-terms.md) to the current ontology, making sure to include all the necessary annotations.

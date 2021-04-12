@@ -1,4 +1,4 @@
-# Setup Protégé to auto generate IRI-s #
+# Set up Protégé to auto generate IRI-s #
 
 Open your `ontology-edit.owl` file.
 
@@ -22,6 +22,7 @@ End with: Auto-generated ID
 **Entity Label:**
 
 Same as label renderer: IRI: http://www.w3.org/2000/01/rdf-schema#label
+
 Lang: en
 
 **Auto-generated ID:**
@@ -38,7 +39,7 @@ Start: Use the first number of **your assigned ID range***
 
 End: Use the first number of **your assigned ID range***
 
-Remember last ID between Protege sessions: **ALWAYS CHECK THIS**
+Remember last ID between Protégé sessions: **ALWAYS CHECK THIS**
 
 
 **Note:** As every ID number must be unique within the ontology, you want the ID to be remembered by Protégé to prevent conflicts with your own ID’s. You will avoid conflicts with changes by other editors by using **your assigned ID range**). If you have not been assigned an ID range, please contact the appropriate ontology **manager** to set this for you.
