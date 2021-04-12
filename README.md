@@ -51,7 +51,14 @@ Other programs with text editor capabilities that are also used for programming,
 - To be able to pull files from and push files to GitHub from their computers either using git commands in the command line (the route recommended by developers) or [GitHub Desktop](https://desktop.github.com/) (an app to manage your GitHub repositories from your computer).
 - To install and use [Protégé](https://protege.stanford.edu/) (an ontology editing software) to edit the appropriate ontology file directly on their computers.
 
-### Order-specific ontology manager tasks
+## Workflow overview
+
+There are two kinds of roles in the development of the AISM and AISM-based ontologies: **managers** and **editors**. Here is a simplified overview of the tasks for each role:
+
+![Overview](https://github.com/insect-morphology/Manual/blob/main/img/overview.png)
+
+
+### Ontology manager tasks:
 
 For each order-specific ontology there should be at least one **manager**. This person has several tasks. We will walk you through each of the steps in this manual.
 1. [Set up the main repository](https://github.com/insect-morphology/Manual-for-AISM-based-insect-anatomy-ontologies/blob/main/Sections/Setting-up-main-repository.md) by requesting a "placeholder repository" to be hosted at [insect-morphology](https://github.com/insect-morphology) 
@@ -62,7 +69,14 @@ For each order-specific ontology there should be at least one **manager**. This 
 6. Review and accept pull requests submitted by order-specific ontology **editors**
 7. [Submit the new ontology for inclusion in the OBO Foundry](http://www.obofoundry.org/faq/how-do-i-register-my-ontology.html) - this will be done when there has been some order-specific development (when order-specific terms have been added)
 
+### Ontology editor tasks:
 
-If you are interested in contributing to an existing AISM-based ontology or to AISM itself, see the **[instructions for editors](https://github.com/insect-morphology/Manual/blob/main/Sections/Instructions-for-editors.md)**. This will guide you through how to make a copy of the existing ontology, make changes and submit those changes for evaluation by the ontology manager.
+Ontologies hosted at [insect-morphology](https://github.com/insect-morphology)can be edited by anyone who wishes to, but changes must be submitted for review and acceptance to the main repository.
 
-If you have comments about a particular term that needs revision, but do not want to get into ontology editing, you can use our [issue tracker](https://github.com/insect-morphology/aism/issues), providing as much information as you can, including references with DOI if possible.
+1. Request an ID range by contacting the **ontology manager** (who should be identified in the initial `README.md` file in the ontology repository at [insect-morphology](https://github.com/insect-morphology)), or by creating a new issue within the appropriate ontology repository.
+2. [Get the ontology files](https://github.com/insect-morphology/Manual/blob/main/Sections/Obtaining-main-ontology-files.md) available from [insect-morphology](https://github.com/insect-morphology)
+3. [Edit the appropriate ontology file](https://github.com/insect-morphology/Manual/blob/main/Sections/Using-Protege.md) using [Protégé](https://protege.stanford.edu/)
+4. [Submit a pull request](https://github.com/insect-morphology/Manual/blob/main/Sections/Submit-pull-request.md) so that the **ontology manager** can take a look at your proposed changes and accept them if appropriate. 
+
+
+If you have comments about a particular term that needs revision, but do not want to get into ontology editing, you can use our [issue tracker](https://github.com/insect-morphology/aism/issues), providing as much information as you can, including references with DOI if possible to support your request.

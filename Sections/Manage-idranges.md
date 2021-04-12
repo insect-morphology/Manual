@@ -11,4 +11,4 @@ https://github.com/obophenotype/cell-ontology/blob/master/src/ontology/cl-idrang
 
 Anatomy of Insect SkeletoMuscular system (AISM): https://github.com/insect-morphology/aism/blob/master/src/ontology/aism-idranges.owl 
 
-If you are a new contributor/editor for an order-specific ontology, please contact the main manager of the order-specific ontology (who should be identified in the initial `README.md` file in the ontology repository at [insect-morphology](https://github.com/insect-morphology)) so that they can assign you an ID range.
+If you are a new contributor/editor for an order-specific ontology, please contact the main **manager** of the order-specific ontology (who should be identified in the initial `README.md` file in the ontology repository at [insect-morphology](https://github.com/insect-morphology)) so that they can assign you an ID range.
