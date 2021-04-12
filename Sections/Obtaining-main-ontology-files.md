@@ -21,11 +21,11 @@ In my case, to be able to edit the AISM, this would be:
 
 Go to `File`, `Clone Repository` and find your forked repository in the list of available repositories to clone. Then click on `Clone`.
 
-![GitHubDTClone](https://github.com/insect-morphology/Manual/blob/main/img/GitHubDT-Clone2.png)
+![GitHubDTClone](https://github.com/insect-morphology/Manual/blob/main/img/GitHubDT-Clone2.png){:height="60%" width="60%"}
 
 
 Now you can explore the ontology folder on your computer. You should be able to see the same exact file system that is on your forked repository on GitHub.
 
-The only file to be edited is the `src/ontology/abbreviation_for_your_ontology-edit.owl` file, using [Protégé](https://protege.stanford.edu/).
+The only file to be edited is the `src/ontology/abbreviation_for_your_ontology-edit.owl` file, using [Protégé](https://protege.stanford.edu/).{:height="50%" width="50%"}
 
-For instructions on how to use [Protégé](https://protege.stanford.edu/) to edit the AISM or AISM-based ontologies, go to: 
+For instructions on how to use [Protégé](https://protege.stanford.edu/) to edit the AISM or AISM-based ontologies, go to: [Using Protégé](https://github.com/insect-morphology/Manual/blob/main/Sections/Using-Protege.md).
