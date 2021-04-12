@@ -16,7 +16,7 @@ In my computer, this is
 ### Explore the ontology and its hierarchy by clicking the entities tab in the top left area: ###
 
 
-![ProtegeHome](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeHome.png){:height="80%" width="80%"}
+![ProtegeHome](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeHome.png)
 
 
 This will show you the main features that you will be working with:
@@ -27,17 +27,17 @@ This will show you the main features that you will be working with:
 - **Object properties** tab (top left, yellow arrow)
 
 
-![ProtegeMain](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeMain.png) {:height="80%" width="80%"}
+![ProtegeMain](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeMain.png)
 
 
-## Setup Protégé to auto generate IRI-s##
+## Setup Protégé to auto generate IRI-s ##
 
 At the top menu: `Protégé` > `Preferences` > `New entities`
 
 Apply the following settings:
 
 
-![ProtegeEntityPref](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeEntityPref.png) {:height="80%" width="80%"}
+![ProtegeEntityPref](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeEntityPref.png)
 
 
 **Entity IRI:**
