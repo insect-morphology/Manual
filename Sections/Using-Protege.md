@@ -6,6 +6,9 @@ In order to perform the steps in this section you will need to:
 1. Have [Protégé](https://protege.stanford.edu/) installed
 2. Have a clone of your forked repository in your computer
 
+-------------------
+
+## Explore the ontology and its hierarchy ##
 
 Open Protégé. Click on `File`, `Open…`, and find the `abbreviation_for_your_ontology-edit.owl` file (e.g., `GitHub/abbreviation_for_your_ontology/src/ontology/abbreviation_for_your_ontology-edit.owl`
 
@@ -13,10 +16,10 @@ In my computer, this is
 `GitHub/aism/src/ontology/aism-edit.owl`
 
 
-### Explore the ontology and its hierarchy by clicking the entities tab in the top left area: ###
+ by clicking the entities tab in the top left area:
 
 
-![ProtegeHome](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeHome.png)
+<img src="https://github.com/insect-morphology/Manual/blob/main/img/ProtegeHome.png" alt="ProtegeHome" width="80%"/>
 
 
 This will show you the main features that you will be working with:
@@ -27,48 +30,7 @@ This will show you the main features that you will be working with:
 - **Object properties** tab (top left, yellow arrow)
 
 
-![ProtegeMain](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeMain.png)
+<img src="https://github.com/insect-morphology/Manual/blob/main/img/ProtegeMain.png" alt="ProtegeMain" width="60%"/>
 
 
-## Setup Protégé to auto generate IRI-s ##
-
-At the top menu: `Protégé` > `Preferences` > `New entities`
-
-Apply the following settings:
-
-
-![ProtegeEntityPref](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeEntityPref.png)
-
-
-**Entity IRI:**
-
-Start with: Specified IRI: http://purl.obolibrary.org/obo 
-
-Followed by: /
-
-End with: Auto-generated ID
-
-
-**Entity Label:**
-
-Same as label renderer: IRI: http://www.w3.org/2000/01/rdf-schema#label
-Lang: en
-
-**Auto-generated ID:**
-
-Numeric
-
-Prefix AISM_
-
-Suffix: leave this blank
-
-Digit Count: 7
-
-Start: Use the first number of **your assigned ID range***
-
-End: Use the first number of **your assigned ID range***
-
-Remember last ID between Protege sessions: **ALWAYS CHECK THIS**
-
-
-**Note:** As every ID number must be unique within the ontology, you want the ID to be remembered by Protégé to prevent conflicts with your own ID’s. You will avoid conflicts with changes by other editors by using **your assigned ID range**). If you have not been assigned an ID range, please contact the appropriate ontology **manager** to set this for you.
+Next, [setup Protégé to auto generate IRI-s](https://github.com/insect-morphology/Manual/blob/main/Sections/Setup-Protege.md).
