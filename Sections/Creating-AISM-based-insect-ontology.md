@@ -133,7 +133,13 @@ To check if everything went well, open the file `abbreviation_for_your_ontology-
 ![Protégé Home Screen](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeHome.png)
 
 
-Last step using the [ODK](https://github.com/INCATools/ontology-development-kit) for now, make release files, before uploading files to [GitHub](https://github.com/):
+At this point, it is recommended that you edit the main annotations of your newly created ontology, by pressing the circle icon on the right side of the main panel:
+1. Adjust the title if needed.
+2. Add a brief description of the contents of your ontology.
+3. Add a license. We recommend https://creativecommons.org/licenses/by/4.0/.
+4. You can add contributors by pressing the plus sign at the top of the main panel and scrolling to find the annotation "contributor". The recommendation is to include name, a short version of the name, and the full ORCID link for the person (e.g. Jennifer C. Girón (jgiron) https://orcid.org/0000-0002-0851-6883).
+
+Then save the ontlogy file and run your first release, which is the last step using the [ODK](https://github.com/INCATools/ontology-development-kit) for now, make release files, before uploading files to [GitHub](https://github.com/):
 
 **For Mac:**
 `sh run.sh make prepare_release`
