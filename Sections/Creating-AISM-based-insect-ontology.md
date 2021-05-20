@@ -130,7 +130,7 @@ Then make the imports using the following command:
 
 To check if everything went well, open the file `abbreviation_for_your_ontology-edit.owl` in [Protégé](https://protege.stanford.edu/). The main screen should look similar to the image below:
 
-![Protégé Home Screen](https://github.com/insect-morphology/Manual/blob/main/img/PotegeHome.png)
+![Protégé Home Screen](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeHome.png)
 
 
 Last step using the [ODK](https://github.com/INCATools/ontology-development-kit) for now, make release files, before uploading files to [GitHub](https://github.com/):
