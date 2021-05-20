@@ -151,4 +151,4 @@ This will run the [ODK](https://github.com/INCATools/ontology-development-kit) t
 
 Also, take a look at the instructions on the `README-editors.md` file within your `src/ontology/` folder, by opening the file in the text editor.
 
-After your files have been created, edited and released, you are ready to upload this first version of the ontology to [GitHub](https://github.com/).
+After your files have been created, edited and released, you are ready to [upload this first version of the ontology to GitHub](https://github.com/insect-morphology/Manual/blob/main/Sections/Upload-initial-ontology-as-GitHub-repository.md).
