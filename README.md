@@ -71,7 +71,7 @@ For each order-specific ontology there should be at least one **manager**. This 
 
 ### Ontology editor tasks:
 
-Ontologies hosted at [insect-morphology](https://github.com/insect-morphology)can be edited by anyone who wishes to, but changes must be submitted for review and acceptance to the main repository.
+Ontologies hosted at [insect-morphology](https://github.com/insect-morphology) can be edited by anyone who wishes to, but changes must be submitted for review and acceptance to the main repository.
 
 1. Request an ID range by contacting the **ontology manager** (who should be identified in the initial `README.md` file in the ontology repository at [insect-morphology](https://github.com/insect-morphology)), or by creating a new issue within the appropriate ontology repository.
 2. [Get the ontology files](https://github.com/insect-morphology/Manual/blob/main/Sections/Obtaining-main-ontology-files.md) available from [insect-morphology](https://github.com/insect-morphology)
