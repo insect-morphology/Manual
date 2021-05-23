@@ -6,15 +6,15 @@ Whether you used [git commands](https://github.com/insect-morphology/Manual/blob
 
 ![GitHub Branch Ahead](https://github.com/insect-morphology/Manual/blob/main/img/GitHubBranchEven.png)
 
-Just click on `Pull request` near the top of the repository.
+Click on the small arrow next to contribute near the top of the repository to find the green `Open pull request` button and press it.
 
 ![GitHub How to Pull Request](https://github.com/insect-morphology/Manual/blob/main/img/GitHubHowPullReq.png)
 
-Which will take you to a new page that should show no incompatibilities between your fork an the original repository at [insect-morphology](https://github.com/insect-morphology):
+This will take you to a new page that should show no incompatibilities between your fork an the original repository at [insect-morphology](https://github.com/insect-morphology):
 
 ![GitHub Pull Request](https://github.com/insect-morphology/Manual/blob/main/img/GitHubPullReq.png)
 
-**Note:** If there are incompatibilities, you can still submit your request to be evaluated bu the ontology **manager**, who will be able to check and resolve those incompatibilities.
+**Note:** If there are incompatibilities, you can still submit your request to be evaluated bu the ontology **manager**, who (hopefully) will be able to check and resolve those incompatibilities.
 
 Click on the **"Create pull request"** green button on the right, which will give you the option to include additional information. Add a few details about the changes made for this pull request, as this can help in the future to track back issues that might arise.
 
