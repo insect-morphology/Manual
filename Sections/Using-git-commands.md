@@ -34,3 +34,5 @@ And lastly, enter:
 Now you can go to your web browser and refresh/reload your forked repository to see all the files copied there from your computer, with this message at the top:
 
 ![GitHub Branch Ahead](https://github.com/insect-morphology/Manual/blob/main/img/GitHubBranchEven.png)
+
+Go ahead and [submit a pull request](https://github.com/insect-morphology/Manual/blob/main/Sections/Submit-pull-request.md) so that [insect-morphology](https://github.com/insect-morphology) admins can review and pull your files into the original repository.
