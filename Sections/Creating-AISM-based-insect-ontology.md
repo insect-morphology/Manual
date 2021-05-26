@@ -128,6 +128,16 @@ Then make the imports using the following command:
 
 `./run.bat make all_imports`
 
+And lastly, refresh the files:
+
+**For Mac:**
+
+`sh run.sh make refresh-aism`
+
+**For Windows:**
+
+`./run.bat make refresh-aism`
+
 To check if everything went well, open the file `abbreviation_for_your_ontology-edit.owl` in [Protégé](https://protege.stanford.edu/). The main screen should look similar to the image below:
 
 ![Protégé Home Screen](https://github.com/insect-morphology/Manual/blob/main/img/ProtegeHome.png)
