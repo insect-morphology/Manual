@@ -44,4 +44,4 @@ Remember last ID between Protégé sessions: **ALWAYS CHECK THIS BOX**
 
 ***Note:** As every ID number must be unique within the ontology, you want the ID to be remembered by Protégé to prevent conflicts with your own ID’s. You will avoid conflicts with changes by other editors by using **your assigned ID range**. If you have not been assigned an ID range, please contact the appropriate ontology **manager** to set this for you.
 
-Next, you can either [import existing terms](https://github.com/insect-morphology/Manual/blob/main/Sections/Setup-Protege.md) from other ontologies, if needed, or you can [add new terms](https://github.com/insect-morphology/Manual/blob/main/Sections/Adding-new-terms.md) to the current ontology, making sure to include all the necessary annotations.
+Next, you can either [import existing terms](https://github.com/insect-morphology/Manual/blob/main/Sections/importing-existing-terms.md) from other ontologies, if needed, or you can [add new terms](https://github.com/insect-morphology/Manual/blob/main/Sections/Adding-new-terms.md) to the current ontology, making sure to include all the necessary annotations.
