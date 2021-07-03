@@ -111,6 +111,7 @@ Save the file (i.e. go to file, then save - without changing the name of the fil
 Now, you will also need two files containing the properties that we are keeping to have a working and decluttered AISM version:
 - [Annotation properties](https://raw.githubusercontent.com/insect-morphology/Manual/main/Sections/keep_ann.txt)
 - [Object properties](https://raw.githubusercontent.com/insect-morphology/Manual/main/Sections/keep_obp.txt)
+
 For each file: Go to the link, right click, save as .txt file in your `abbreviation_for_your_ontology\src\ontology\` file.
 
 Now, go back to the command line and go all the way to this ontology folder (i.e. `cd \target\abbreviation_for_your_ontology\src\ontology\`). Then update the files using the following command:
