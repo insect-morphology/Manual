@@ -37,7 +37,7 @@ Digit Count: 7
 
 Start: Use the first number of **your assigned ID range***
 
-End: Use the first number of **your assigned ID range***
+End: Use the last number of **your assigned ID range***
 
 Remember last ID between Protégé sessions: **ALWAYS CHECK THIS BOX**
 
