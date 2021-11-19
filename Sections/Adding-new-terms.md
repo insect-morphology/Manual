@@ -2,7 +2,7 @@
 
 Open your `ontology-edit.owl` file.
 
-First of all, make sure that the term that you are about to add **DOES NOT** exist in the ontology yet. 
+First of all, make sure that the term that you are about to add **DOES NOT** exist in the ontology yet.
 
 This can be done by searching the term: go to `Edit` on the top menu and then `Find`, which will open the `Search` window. Start typing the term. The program will start showing the terms that contain the combination of letters that you are typing.
 
@@ -10,7 +10,9 @@ This can be done by searching the term: go to `Edit` on the top menu and then `F
 
 **Note:** In AISM, we tried our best to name combined terms from dorsal to ventral (e.g., noto-pleural conjunctiva) or proximal to distal (e.g., pleuro-coxal muscle), but just in case, make sure to search for both options (i.e., pleuro-notal, coxo-pleural).
 
-Once you have checked that the term is not currently included in the ontology, check for what would be the best parent for it. Main categories include 'sclerite', 'conjunctiva' (for membranes), both under 'region of cuticle', and 'skeletal muscle tissue' (for muscles).
+Once you have checked that the term is not currently included in the ontology, make sure to search for the term in (Ontobee)[http://www.ontobee.org/]. If the term does not exist, or if it exists, but has a definition that is not compatible with your intended use, then it is okay to create a new term.
+
+First of all, think of what would be the best parent for your term. Main categories include 'sclerite', 'conjunctiva' (for membranes), both under 'region of cuticle', and 'skeletal muscle tissue' (for muscles).
 
 <img src="https://github.com/insect-morphology/Manual/blob/main/img/ProtegePlace.png" alt="ProtegePlace" width="80%"/>
 
