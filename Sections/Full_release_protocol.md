@@ -4,4 +4,21 @@ The  **ontology manager** will need to generate, upload, and push **release file
 
 **1. Make sure that your [ODK](https://github.com/INCATools/ontology-development-kit) is up to date:**
 Using the command line, go all the way to your ontology folder (i.e. `\abbreviation_for_your_ontology\src\ontology\`)
-and run: 'docker pull obolibrary/odkfull' when it is done, run twice 'sh run.sh make update_repo'.
+and run: 
+`docker pull obolibrary/odkfull`
+
+When it is done, run twice: 
+
+**For Mac:**
+`sh run.sh make update_repo`
+
+**For Windows:**
+`./run.sh make update_repo`
+
+**2. Prepare your new release files:** Depending on your imports, this might take a while.
+
+**For Mac:**
+`sh run.sh make IMP_LARGE=false prepare_release`
+
+**For Windows:**
+`./run.sh make IMP_LARGE=false prepare_release`
