@@ -60,4 +60,4 @@ Once the pull request has been reviewed and merged go ahead and create a new rel
 
 The tag should be in the format: vYear-Month-Day (e.g., v2022-10-08).
 
-By creating a new release in the repository, the linked Zenodo repository will also be updated. Make sure that the new Zenodo version is also clean and complete.
+By creating a new release in the repository, the linked Zenodo repository will also be updated. Make sure that the new Zenodo version is also clean and complete. Don't forget to update the citation in the README file for your freshly released ontology.
