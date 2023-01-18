@@ -22,3 +22,34 @@ When it is done, run twice:
 
 **For Windows:**
 `./run.sh make IMP_LARGE=false prepare_release`
+
+
+If your release is successful, you will see this message at the end of the process:
+
+*"Release files are now in ../.. - now you should commit, push and make a release on your git hosting site such as GitHub or GitLab"*
+
+**3. Push all the new files to your repository**
+
+`cd` into the `Documents/GitHub/abbreviation_for_your_ontology` folder and type:
+
+`git status`
+
+This should show you the list of files that changed in the main repository folder in red, which indicates that these files are only in your computer, but not in the GitHub repository.
+
+Next, we need to add these files to the "staging area" to be able to upload them to GitHub by entering:
+
+`git add .`
+
+This will stage all the new files, so that if you enter `git status` again, the same files that were in red will appear in green this time, which means that they are ready to be committed and pushed to GitHub. Then enter:
+
+`git commit -m "new changes and new release release"`
+
+And lastly, enter:
+
+`git push`
+
+Now you can go to your web browser and refresh/reload your forked repository to see all the files copied there from your computer, with this message at the top:
+
+![GitHub Branch Ahead](https://github.com/insect-morphology/Manual/blob/main/img/GitHubBranchEven.png)
+
+Go ahead and [submit a pull request](https://github.com/insect-morphology/Manual/blob/main/Sections/Submit-pull-request.md) so that [insect-morphology](https://github.com/insect-morphology) admins can review and pull your files into the original repository.
