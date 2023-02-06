@@ -42,7 +42,7 @@ Next, we need to add these files to the "staging area" to be able to upload them
 
 This will stage all the new files, so that if you enter `git status` again, the same files that were in red will appear in green this time, which means that they are ready to be committed and pushed to GitHub. Then enter:
 
-`git commit -m "new changes and new release release"`
+`git commit -m "new changes and new release"`
 
 And lastly, enter:
 
@@ -54,9 +54,9 @@ Now you can go to your web browser and refresh/reload your forked repository to 
 
 Go ahead and [submit a pull request](https://github.com/insect-morphology/Manual/blob/main/Sections/Submit-pull-request.md) so that [insect-morphology](https://github.com/insect-morphology) admins can review and pull your files into the original repository.
 
-# **For main repository admins:** #
+## **4. Release the repository** ##
 
-Once the pull request has been reviewed and merged go ahead and create a new release in the repository. 
+Once the pull request has been reviewed and merged, go ahead and create a new release in the repository. 
 
 The tag should be in the format: vYear-Month-Day (e.g., v2022-10-08).
 
