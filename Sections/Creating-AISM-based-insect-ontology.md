@@ -10,7 +10,7 @@ Follow the steps carefully. This will create a file system in your computer with
 
 2. **Download and install [Docker](https://www.docker.com/get-started)**. (Mac users: minimum requirement is 10.13.2; make sure that Docker gets all the permissions needed in High Sierra and up).
 
-3. Tell Docker to download and organize all the elements of the ODK. First, you will need to download the appropriate `seed-via-docker` script to your `Documents/Ontology` folder:
+3. Tell Docker to download and organize all the elements of the ODK. First, you will need to download the appropriate `seed-via-docker` script to your `Documents/Ontology` folder as a seed-via-docker.sh or .bat file:
 
 **For Mac:** go to https://raw.githubusercontent.com/INCATools/ontology-development-kit/master/seed-via-docker.sh. Right click on the page, select "save as", and save the file in the your `Documents/Ontology` folder, without changing the file `.sh` extension.
 
