@@ -64,9 +64,9 @@ The simplest editors:
 **For Windows:** [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 Other programs with text editor capabilities that are also used for programming, available for both Mac and Windows: [Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/).
-- To have [**git**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on the computer
+- To have [**git**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed and set up (username, e-mail) on the computer
 - A [GitHub](https://github.com/) account
-- To be able to pull files from and push files to GitHub from their computers either using git commands in the command line (the route recommended by developers) or [GitHub Desktop](https://desktop.github.com/) (an app to manage your GitHub repositories from your computer).
+- To be able to pull files from and push files to GitHub from their computers either using git commands in the command line (the route recommended by developers) or [GitHub Desktop](https://desktop.github.com/) (an app to manage your GitHub repositories from your computer, this tool will also prepare the first set up of git if newly installed).
 - To install and use [Protégé](https://protege.stanford.edu/) (an ontology editing software) to edit the appropriate ontology file directly on their computers.
 
 ## Workflow overview
