@@ -4,6 +4,7 @@ http://purl.org/dc/elements/1.1/contributor
 http://purl.org/dc/terms/license
 http://purl.org/dc/terms/modified
 http://purl.org/dc/terms/isReferencedBy
+http://purl.org/dc/terms/contributor
 http://www.w3.org/2000/01/rdf-schema#comment
 http://www.w3.org/2000/01/rdf-schema#label
 http://www.w3.org/2004/02/skos/core#prefLabel
